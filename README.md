@@ -14,4 +14,7 @@ selecting text
 
 # References
 [yabai] https://www.josean.com/posts/yabai-setup
+
+[alacritty] https://www.josean.com/posts/how-to-setup-alacritty-terminal
+
 https://jeongwhanchoi.medium.com/install-tmux-on-osx-and-basics-commands-for-beginners-be22520fd95e
